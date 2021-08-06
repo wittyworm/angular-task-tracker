@@ -50,6 +50,7 @@ body {
 
 .form-control label {
   display: block;
+  font-weight: bold;
 }
 
 .form-control input {
